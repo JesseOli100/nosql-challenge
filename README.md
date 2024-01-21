@@ -24,3 +24,7 @@ The magazine editors have some requested modifications for the database before y
 
 An exciting new halal restaurant just opened in Greenwich, but hasn't been rated yet. The magazine has asked you to include it in your analysis. Add the following information to the database:
 
+![Snip20240120_7](https://github.com/JesseOli100/nosql-challenge/assets/62526904/7772026c-8c13-4bdb-a5e7-e504f0d902f4)
+
+
+
