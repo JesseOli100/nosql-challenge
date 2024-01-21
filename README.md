@@ -75,5 +75,6 @@ The first 5 rows of your resulting DataFrame should look something like this:
 
 ![Snip20240120_8](https://github.com/JesseOli100/nosql-challenge/assets/62526904/40e78063-3da3-4bca-a26a-6308fcf43d76)
 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
-
+This is submitted by Jesse Olivarez for the University of Utah: Data Analytics Bootcamp
